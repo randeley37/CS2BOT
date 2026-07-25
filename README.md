@@ -1,5 +1,6 @@
-## CS2BOT
-Best bot for you cs2 community, lots of features
+## CS2BOT by randeley
+Best bot for you CS2 Community, lots of features
+Configured with the latest embeds (Message Components V2)
 
 Main Features
 

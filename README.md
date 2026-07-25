@@ -9,3 +9,6 @@ Main Features
 3. Unzip
 4. Configure token and stuff in src/Configs/config.js
 5. Start with "node ."
+
+# 📋 Requirements
+Node JS V22 (Maybe other versions work i didnt tested it)

@@ -12,18 +12,22 @@ Main Features
 5. Start with "node ."
 
 # 🛠️ Features
-* [x][Advanced Multiple Servers Status](#advanced-multiple-servers-status)
+* [x] [Advanced Multiple Servers Status](#advanced-multiple-servers-status)
 * [x] Ticket System
 * [ ] Temporary Voice Channels
-* [ ] Welcome Messages
+* [x] Welcome Messages
 * [ ] Log Messages
-* [ ] Clear Messages
+* [x] Clear Messages
 * [ ] Twitch/Youtube Streaming warnings
 * [ ] Sticky Message
 * [ ] Temporary Support Voice Channel
 
 # 📋 Requirements
 Node JS V22 (Maybe other versions work i didnt tested it)
+
+> [!WARNING]
+> The bot and documentation are currently under development
+
 
 
 

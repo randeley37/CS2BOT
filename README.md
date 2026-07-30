@@ -19,6 +19,7 @@ Main Features
 * [x] Log Messages
 * [x] Clear Messages
 * [ ] Twitch/Youtube Streaming warnings
+* [ ] AutoRole/Verification
 * [x] Sticky Message
 * [x] Temporary Support Voice Channel
 
